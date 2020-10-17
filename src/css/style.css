@@ -1,0 +1,20 @@
+html {
+    scroll-behavior: smooth;
+  
+  }
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+body{
+    font-family:  'Whitney HTF', sans-serif;
+    background-color: #F0F0F0 fixed;
+    color: black;
+}
+.nav-homebar{
+    background-image: url("../images/bg.jpeg");
+    background-size: cover;
+    
+}
